@@ -3,20 +3,20 @@
 Breakdown of this notebook:
 
 Loading the dataset: Load the data and import the libraries.
-Data Cleaning:
-Deleting redundant columns.
-Renaming the columns.
-Dropping duplicates.
-Cleaning individual columns.
-Remove the NaN values from the dataset
-#Some Transformations
+Data Cleaning,
+Deleting redundant columns,
+Renaming the column,
+Dropping duplicates,
+Cleaning individual columns,
+Remove the NaN values from the dataset,
+Some Transformations.
 
 
 Regression Analysis:
 
-Linear Regression
-Decision Tree Regression
-Random Forest Regression
+Linear Regression,
+Decision Tree Regression, 
+Random Forest Regression,
 
 
 Data Visualization: Using plots to find relations between the features:
